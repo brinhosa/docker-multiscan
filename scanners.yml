@@ -31,7 +31,7 @@ severity-mappings:
 plugins:
   snyk:
     enabled:
-      True
+      False
     command_line:
       - ./snyk-scanner.sh
     results_root:
